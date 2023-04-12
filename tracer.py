@@ -63,7 +63,7 @@ def main():
         description='Tracing to the entered node (Using tracert).'
                     ' Only for windows users.\n')
     parser.add_argument('location', type=str, help='IP or domain address')
-    parser.add_argument('-hops', type=int,
+    parser.add_argument('-hops',default=30,  type=int,
                         help='The maximum '
                              'number of jumps when searching for a node.')
     arguments = parser.parse_args()
