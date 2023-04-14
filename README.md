@@ -27,7 +27,7 @@ location    IP-адрес или доменный адрес.
 
 -hops HOPS  Максимальное количество переходов при поиске узла. (По умолчанию 30, как в windows)
 ### Пример
-https://github.com/UnknownPersik/InternetProtocols/blob/main/gifs/tracer.jpg
+![](https://github.com/UnknownPersik/InternetProtocols/blob/main/gifs/tracer.jpg)
 
 ## VK API
 Использование API
