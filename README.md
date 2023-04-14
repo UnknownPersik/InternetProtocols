@@ -26,6 +26,8 @@ location    IP-адрес или доменный адрес.
 -h, --help  Показывает справочное сообщение и завершает работу.
 
 -hops HOPS  Максимальное количество переходов при поиске узла. (По умолчанию 30, как в windows)
+### Пример
+https://github.com/UnknownPersik/InternetProtocols/blob/main/gifs/tracer.jpg
 
 ## VK API
 Использование API
