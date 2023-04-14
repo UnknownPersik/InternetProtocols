@@ -53,3 +53,6 @@ id:    ID пользователя, информацию о котором вы 
               (Если ввести параметр count, выведется только count друзей)
               
               2 Выводит названия альбомов заданного пользователя.
+              
+### Пример работы
+![](https://github.com/UnknownPersik/InternetProtocols/blob/main/gifs/api.gif)
